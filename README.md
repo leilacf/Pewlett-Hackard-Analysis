@@ -6,6 +6,7 @@ The purpose of this analysis was to aid Pewlett Hackard in analyzing their retir
 To organize the data and create the employee database, we had to merge various tables. In the first retirmenet titles table, it shows that there were 133,777 eligible staff for retirement; however, this was not the most accurate table as there were duplicate titles. Due to the data that we merged, this table reflected the accumulated amount of titles for all individuals throughout their years at Pewlett Hackard. Therefore, in order to obtain a table with unique values demonstarting the most recent title of an eligible retiree, we created the unique titles table.
 - The data in this table highlighted that there are 72,458 eligible staff for retirement
 - From this point, we created the retiring titles table which breaks down the 72,458 individuals and groups them by position type:
+
 ![This is an image](https://github.com/leilacf/Pewlett-Hackard-Analysis/blob/main/Final%20Data/retiring%20tables%20%23.png)
 
 - Based off of this table, there are 7 primary position types that will have vacancies: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager. The retirement gap will be felt most strongly with the Senior Engineering positions at Pewlett Hackard as they will have the most available openings. 
